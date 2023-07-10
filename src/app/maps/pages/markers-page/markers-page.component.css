@@ -1,0 +1,20 @@
+#map {
+  width: 100vw;
+  height: 100vh;
+}
+
+ul {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  cursor: pointer;
+  max-height: 300px;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+button {
+  position: fixed;
+  bottom: 30px;
+  right: 20px;
+}
